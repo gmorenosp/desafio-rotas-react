@@ -1,0 +1,11 @@
+#product-group-section {
+    min-height: 60px;
+    height: auto;
+    padding: 20px;
+    background-color: var(--rr-color-bg-color-tertiary);
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 20px;
+    flex-wrap: wrap;
+}
